@@ -1,0 +1,160 @@
+{
+  "wins": 26,
+  "losses": 30,
+  "total_pnl": 84.62316229897758,
+  "best_trade": 18.646408078609085,
+  "worst_trade": -11.424890604857412,
+  "avg_win": 5.215778837750184,
+  "avg_loss": -1.6995695827509065,
+  "patterns": {
+    "MEMEUSDT": {
+      "w": 1,
+      "l": 3
+    },
+    "1000PEPEUSDT": {
+      "w": 1,
+      "l": 1
+    },
+    "ARPAUSDT": {
+      "w": 1,
+      "l": 0
+    },
+    "XLMUSDT": {
+      "w": 0,
+      "l": 1
+    },
+    "HFTUSDT": {
+      "w": 1,
+      "l": 0
+    },
+    "1000SHIBUSDT": {
+      "w": 2,
+      "l": 1
+    },
+    "COTIUSDT": {
+      "w": 1,
+      "l": 0
+    },
+    "ETHUSDT": {
+      "w": 1,
+      "l": 2
+    },
+    "GOATUSDT": {
+      "w": 1,
+      "l": 0
+    },
+    "ZKUSDT": {
+      "w": 0,
+      "l": 1
+    },
+    "ZILUSDT": {
+      "w": 2,
+      "l": 1
+    },
+    "CKBUSDT": {
+      "w": 0,
+      "l": 1
+    },
+    "MOODENGUSDT": {
+      "w": 2,
+      "l": 0
+    },
+    "YGGUSDT": {
+      "w": 1,
+      "l": 0
+    },
+    "ONDOUSDT": {
+      "w": 1,
+      "l": 0
+    },
+    "STRKUSDT": {
+      "w": 0,
+      "l": 1
+    },
+    "HOTUSDT": {
+      "w": 0,
+      "l": 2
+    },
+    "SLPUSDT": {
+      "w": 1,
+      "l": 0
+    },
+    "ENJUSDT": {
+      "w": 0,
+      "l": 3
+    },
+    "ANKRUSDT": {
+      "w": 1,
+      "l": 0
+    },
+    "EIGENUSDT": {
+      "w": 1,
+      "l": 1
+    },
+    "POPCATUSDT": {
+      "w": 0,
+      "l": 1
+    },
+    "1000BONKUSDT": {
+      "w": 2,
+      "l": 0
+    },
+    "SOLUSDT": {
+      "w": 0,
+      "l": 1
+    },
+    "ALGOUSDT": {
+      "w": 0,
+      "l": 1
+    },
+    "ALTUSDT": {
+      "w": 0,
+      "l": 2
+    },
+    "MEUSDT": {
+      "w": 1,
+      "l": 0
+    },
+    "NOTUSDT": {
+      "w": 0,
+      "l": 2
+    },
+    "VTHOUSDT": {
+      "w": 0,
+      "l": 1
+    },
+    "1000SATSUSDT": {
+      "w": 1,
+      "l": 1
+    },
+    "MEWUSDT": {
+      "w": 0,
+      "l": 1
+    },
+    "BNBUSDT": {
+      "w": 1,
+      "l": 0
+    },
+    "ONTUSDT": {
+      "w": 1,
+      "l": 0
+    },
+    "TURBOUSDT": {
+      "w": 1,
+      "l": 0
+    },
+    "ALICEUSDT": {
+      "w": 0,
+      "l": 1
+    },
+    "IOTXUSDT": {
+      "w": 0,
+      "l": 1
+    },
+    "SPELLUSDT": {
+      "w": 1,
+      "l": 0
+    }
+  },
+  "threshold": 4
+}
