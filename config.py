@@ -1,0 +1,37 @@
+import os
+
+API_KEY = os.environ.get("BITUNIX_API_KEY", "")
+API_SECRET = os.environ.get("BITUNIX_API_SECRET", "")
+
+BASE_URL = "https://fapi.bitunix.com"
+
+LIVE_MODE = os.environ.get("LIVE_MODE", "false").lower() == "true"
+
+LEVERAGE = 5
+MARGIN_COIN = "USDT"
+
+SYMBOL = "BTCUSDT"
+KLINE_INTERVAL = "1m"
+KLINE_LIMIT = 200
+
+POSITION_SIZE_PCT = 0.50
+STOP_LOSS_PCT = 0.012
+TAKE_PROFIT_PCT = 0.020
+TRAILING_STOP_PCT = 0.008
+
+EMA_FAST = 9
+EMA_SLOW = 21
+EMA_TREND = 50
+RSI_PERIOD = 14
+RSI_OVERBOUGHT = 65
+RSI_OVERSOLD = 35
+VOLUME_MULT = 1.5
+MACD_FAST = 12
+MACD_SLOW = 26
+MACD_SIGNAL = 9
+
+SCAN_INTERVAL_SEC = 12
+LOG_FILE = "bot.log"
+
+TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
