@@ -1,0 +1,275 @@
+{
+  "weights": {
+    "score_strength": 0.1788001395865606,
+    "confirmations": 0.11148587381321208,
+    "trend_align": 0.10304011166924845,
+    "volume": 0.035360074446165644,
+    "rsi_position": 0.1,
+    "pump_dump": 0.05,
+    "bb_position": 0.0,
+    "trend_strength": 0.0,
+    "candle_pattern": 0.0
+  },
+  "bias": -0.04391977666150307,
+  "history": [
+    {
+      "features": {
+        "score_strength": 0.625,
+        "confirmations": 0.7142857142857143,
+        "trend_align": 0.5,
+        "volume": 0.3333333333333333,
+        "rsi_position": 0,
+        "pump_dump": 0,
+        "bb_position": 0,
+        "trend_strength": 0,
+        "candle_pattern": 0
+      },
+      "won": false,
+      "confidence": 0.657
+    },
+    {
+      "features": {
+        "score_strength": 0.625,
+        "confirmations": 0.7142857142857143,
+        "trend_align": 0.5,
+        "volume": 0.3333333333333333,
+        "rsi_position": 0,
+        "pump_dump": 0,
+        "bb_position": 0,
+        "trend_strength": 0,
+        "candle_pattern": 0
+      },
+      "won": false,
+      "confidence": 0.637
+    },
+    {
+      "features": {
+        "score_strength": 0.625,
+        "confirmations": 0.7142857142857143,
+        "trend_align": 0.5,
+        "volume": 0.3333333333333333,
+        "rsi_position": 0,
+        "pump_dump": 0,
+        "bb_position": 0,
+        "trend_strength": 0,
+        "candle_pattern": 0
+      },
+      "won": false,
+      "confidence": 0.616
+    },
+    {
+      "features": {
+        "score_strength": 0.625,
+        "confirmations": 0.7142857142857143,
+        "trend_align": 0.5,
+        "volume": 0.3333333333333333,
+        "rsi_position": 0,
+        "pump_dump": 0,
+        "bb_position": 0,
+        "trend_strength": 0,
+        "candle_pattern": 0
+      },
+      "won": true,
+      "confidence": 0.596
+    },
+    {
+      "features": {
+        "score_strength": 0.625,
+        "confirmations": 0.7142857142857143,
+        "trend_align": 0.5,
+        "volume": 0.3333333333333333,
+        "rsi_position": 0,
+        "pump_dump": 0,
+        "bb_position": 0,
+        "trend_strength": 0,
+        "candle_pattern": 0
+      },
+      "won": true,
+      "confidence": 0.609
+    },
+    {
+      "features": {
+        "score_strength": 0.625,
+        "confirmations": 0.7142857142857143,
+        "trend_align": 0.5,
+        "volume": 0.3333333333333333,
+        "rsi_position": 0,
+        "pump_dump": 0,
+        "bb_position": 0,
+        "trend_strength": 0,
+        "candle_pattern": 0
+      },
+      "won": false,
+      "confidence": 0.622
+    },
+    {
+      "features": {
+        "score_strength": 0.625,
+        "confirmations": 0.7142857142857143,
+        "trend_align": 0.5,
+        "volume": 0.3333333333333333,
+        "rsi_position": 0,
+        "pump_dump": 0,
+        "bb_position": 0,
+        "trend_strength": 0,
+        "candle_pattern": 0
+      },
+      "won": true,
+      "confidence": 0.602
+    },
+    {
+      "features": {
+        "score_strength": 0.625,
+        "confirmations": 0.7142857142857143,
+        "trend_align": 0.5,
+        "volume": 0.3333333333333333,
+        "rsi_position": 0,
+        "pump_dump": 0,
+        "bb_position": 0,
+        "trend_strength": 0,
+        "candle_pattern": 0
+      },
+      "won": false,
+      "confidence": 0.615
+    },
+    {
+      "features": {
+        "score_strength": 0.625,
+        "confirmations": 0.7142857142857143,
+        "trend_align": 0.5,
+        "volume": 0.3333333333333333,
+        "rsi_position": 0,
+        "pump_dump": 0,
+        "bb_position": 0,
+        "trend_strength": 0,
+        "candle_pattern": 0
+      },
+      "won": false,
+      "confidence": 0.595
+    },
+    {
+      "features": {
+        "score_strength": 0.625,
+        "confirmations": 0.7142857142857143,
+        "trend_align": 0.5,
+        "volume": 0.3333333333333333,
+        "rsi_position": 0,
+        "pump_dump": 0,
+        "bb_position": 0,
+        "trend_strength": 0,
+        "candle_pattern": 0
+      },
+      "won": true,
+      "confidence": 0.575
+    },
+    {
+      "features": {
+        "score_strength": 0.625,
+        "confirmations": 0.7142857142857143,
+        "trend_align": 0.5,
+        "volume": 0.3333333333333333,
+        "rsi_position": 0,
+        "pump_dump": 0,
+        "bb_position": 0,
+        "trend_strength": 0,
+        "candle_pattern": 0
+      },
+      "won": true,
+      "confidence": 0.589
+    },
+    {
+      "features": {
+        "score_strength": 0.625,
+        "confirmations": 0.7142857142857143,
+        "trend_align": 0.5,
+        "volume": 0.3333333333333333,
+        "rsi_position": 0,
+        "pump_dump": 0,
+        "bb_position": 0,
+        "trend_strength": 0,
+        "candle_pattern": 0
+      },
+      "won": true,
+      "confidence": 0.603
+    },
+    {
+      "features": {
+        "score_strength": 0.625,
+        "confirmations": 0.7142857142857143,
+        "trend_align": 0.5,
+        "volume": 0.3333333333333333,
+        "rsi_position": 0,
+        "pump_dump": 0,
+        "bb_position": 0,
+        "trend_strength": 0,
+        "candle_pattern": 0
+      },
+      "won": false,
+      "confidence": 0.616
+    },
+    {
+      "features": {
+        "score_strength": 0.625,
+        "confirmations": 0.7142857142857143,
+        "trend_align": 0.5,
+        "volume": 0.3333333333333333,
+        "rsi_position": 0,
+        "pump_dump": 0,
+        "bb_position": 0,
+        "trend_strength": 0,
+        "candle_pattern": 0
+      },
+      "won": false,
+      "confidence": 0.596
+    },
+    {
+      "features": {
+        "score_strength": 0.625,
+        "confirmations": 0.7142857142857143,
+        "trend_align": 0.5,
+        "volume": 0.3333333333333333,
+        "rsi_position": 0,
+        "pump_dump": 0,
+        "bb_position": 0,
+        "trend_strength": 0,
+        "candle_pattern": 0
+      },
+      "won": false,
+      "confidence": 0.576
+    },
+    {
+      "features": {
+        "score_strength": 0.625,
+        "confirmations": 0.7142857142857143,
+        "trend_align": 0.5,
+        "volume": 0.3333333333333333,
+        "rsi_position": 0,
+        "pump_dump": 0,
+        "bb_position": 0,
+        "trend_strength": 0,
+        "candle_pattern": 0
+      },
+      "won": true,
+      "confidence": 0.557
+    },
+    {
+      "features": {
+        "score_strength": 0.625,
+        "confirmations": 0.7142857142857143,
+        "trend_align": 0.5,
+        "volume": 0.3333333333333333,
+        "rsi_position": 0,
+        "pump_dump": 0,
+        "bb_position": 0,
+        "trend_strength": 0,
+        "candle_pattern": 0
+      },
+      "won": false,
+      "confidence": 0.572
+    }
+  ],
+  "min_confidence": 0.4288235294117647,
+  "total_trades": 17,
+  "correct": 7,
+  "learning_rate": 0.06
+}
